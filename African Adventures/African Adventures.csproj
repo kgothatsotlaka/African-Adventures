@@ -1,0 +1,244 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{84428813-4EA1-4404-B062-856C49816230}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>African_Adventures</RootNamespace>
+    <AssemblyName>African Adventures</AssemblyName>
+    <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Views\Forms\Form_login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Forms\Form_login.Designer.cs">
+      <DependentUpon>Form_login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Forms\Form_Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Forms\Form_Dashboard.Designer.cs">
+      <DependentUpon>Form_Dashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Views\Forms\frmRegister.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Forms\frmRegister.Designer.cs">
+      <DependentUpon>frmRegister.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\UserControls\UC_Booking\UC_InOfficeBooking\UCConfirmPayment.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\UserControls\UC_Booking\UC_InOfficeBooking\UCConfirmPayment.Designer.cs">
+      <DependentUpon>UCConfirmPayment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\UserControls\UC_Booking\UC_InOfficeBooking\UCPassengerDetails.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\UserControls\UC_Booking\UC_InOfficeBooking\UCPassengerDetails.Designer.cs">
+      <DependentUpon>UCPassengerDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\UserControls\UC_Booking\UC_InOfficeBooking\UCPayment.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\UserControls\UC_Booking\UC_InOfficeBooking\UCPayment.Designer.cs">
+      <DependentUpon>UCPayment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\UserControls\UC_Booking\UC_InOfficeBooking\UCTripDetails.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\UserControls\UC_Booking\UC_InOfficeBooking\UCTripDetails.Designer.cs">
+      <DependentUpon>UCTripDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\UserControls\UC_Booking\UC_OfficeBooking.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\UserControls\UC_Booking\UC_OfficeBooking.Designer.cs">
+      <DependentUpon>UC_OfficeBooking.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\UserControls\UC_Schedule.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\UserControls\UC_Schedule.Designer.cs">
+      <DependentUpon>UC_Schedule.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\UserControls\UC_Staff\UCAuthorization.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\UserControls\UC_Staff\UCAuthorization.Designer.cs">
+      <DependentUpon>UCAuthorization.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\UserControls\UC_Staff\UCDeleteUser.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\UserControls\UC_Staff\UCDeleteUser.Designer.cs">
+      <DependentUpon>UCDeleteUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\UserControls\UC_Staff\UCDiactivateUser.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\UserControls\UC_Staff\UCDiactivateUser.Designer.cs">
+      <DependentUpon>UCDiactivateUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\UserControls\UC_Staff\UCModifyUser.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\UserControls\UC_Staff\UCModifyUser.Designer.cs">
+      <DependentUpon>UCModifyUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\UserControls\UC_Staff\UCStaffPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\UserControls\UC_Staff\UCStaffPanel.Designer.cs">
+      <DependentUpon>UCStaffPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\UserControls\UC_Trips\UCCancelTrip.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\UserControls\UC_Trips\UCCancelTrip.Designer.cs">
+      <DependentUpon>UCCancelTrip.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\UserControls\UC_Trips\UCCheckIn.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\UserControls\UC_Trips\UCCheckIn.Designer.cs">
+      <DependentUpon>UCCheckIn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\UserControls\UC_Trips\UCPrepareTrips.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\UserControls\UC_Trips\UCPrepareTrips.Designer.cs">
+      <DependentUpon>UCPrepareTrips.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\UserControls\UC_Trips\UCTripManagementPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\UserControls\UC_Trips\UCTripManagementPanel.Designer.cs">
+      <DependentUpon>UCTripManagementPanel.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Views\Forms\Form_login.resx">
+      <DependentUpon>Form_login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Forms\Form_Dashboard.resx">
+      <DependentUpon>Form_Dashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Views\Forms\frmRegister.resx">
+      <DependentUpon>frmRegister.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\UserControls\UC_Booking\UC_InOfficeBooking\UCConfirmPayment.resx">
+      <DependentUpon>UCConfirmPayment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\UserControls\UC_Booking\UC_InOfficeBooking\UCPassengerDetails.resx">
+      <DependentUpon>UCPassengerDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\UserControls\UC_Booking\UC_InOfficeBooking\UCPayment.resx">
+      <DependentUpon>UCPayment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\UserControls\UC_Booking\UC_InOfficeBooking\UCTripDetails.resx">
+      <DependentUpon>UCTripDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\UserControls\UC_Booking\UC_OfficeBooking.resx">
+      <DependentUpon>UC_OfficeBooking.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\UserControls\UC_Schedule.resx">
+      <DependentUpon>UC_Schedule.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\UserControls\UC_Staff\UCAuthorization.resx">
+      <DependentUpon>UCAuthorization.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\UserControls\UC_Staff\UCDeleteUser.resx">
+      <DependentUpon>UCDeleteUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\UserControls\UC_Staff\UCDiactivateUser.resx">
+      <DependentUpon>UCDiactivateUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\UserControls\UC_Staff\UCModifyUser.resx">
+      <DependentUpon>UCModifyUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\UserControls\UC_Staff\UCStaffPanel.resx">
+      <DependentUpon>UCStaffPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\UserControls\UC_Trips\UCCancelTrip.resx">
+      <DependentUpon>UCCancelTrip.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\UserControls\UC_Trips\UCCheckIn.resx">
+      <DependentUpon>UCCheckIn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\UserControls\UC_Trips\UCPrepareTrips.resx">
+      <DependentUpon>UCPrepareTrips.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\UserControls\UC_Trips\UCTripManagementPanel.resx">
+      <DependentUpon>UCTripManagementPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

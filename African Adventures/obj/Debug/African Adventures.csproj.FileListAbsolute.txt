@@ -1,0 +1,120 @@
+C:\Users\mankg\Desktop\2019\Projects\Freelancing\Clients\Varsity Students\Mooi\African Adventures\African Adventures\bin\Debug\African Adventures.exe.config
+C:\Users\mankg\Desktop\2019\Projects\Freelancing\Clients\Varsity Students\Mooi\African Adventures\African Adventures\bin\Debug\African Adventures.exe
+C:\Users\mankg\Desktop\2019\Projects\Freelancing\Clients\Varsity Students\Mooi\African Adventures\African Adventures\bin\Debug\African Adventures.pdb
+C:\Users\mankg\Desktop\2019\Projects\Freelancing\Clients\Varsity Students\Mooi\African Adventures\African Adventures\obj\Debug\African_Adventures.frmLogin.resources
+C:\Users\mankg\Desktop\2019\Projects\Freelancing\Clients\Varsity Students\Mooi\African Adventures\African Adventures\obj\Debug\African_Adventures.Properties.Resources.resources
+C:\Users\mankg\Desktop\2019\Projects\Freelancing\Clients\Varsity Students\Mooi\African Adventures\African Adventures\obj\Debug\African Adventures.csproj.GenerateResource.Cache
+C:\Users\mankg\Desktop\2019\Projects\Freelancing\Clients\Varsity Students\Mooi\African Adventures\African Adventures\obj\Debug\African Adventures.exe
+C:\Users\mankg\Desktop\2019\Projects\Freelancing\Clients\Varsity Students\Mooi\African Adventures\African Adventures\obj\Debug\African Adventures.pdb
+E:\2019\Projects\Freelancing\Clients\Varsity Students\Mooi\African Adventures\African Adventures\bin\Debug\African Adventures.exe.config
+E:\2019\Projects\Freelancing\Clients\Varsity Students\Mooi\African Adventures\African Adventures\bin\Debug\African Adventures.exe
+E:\2019\Projects\Freelancing\Clients\Varsity Students\Mooi\African Adventures\African Adventures\bin\Debug\African Adventures.pdb
+E:\2019\Projects\Freelancing\Clients\Varsity Students\Mooi\African Adventures\African Adventures\obj\Debug\African Adventures.csprojResolveAssemblyReference.cache
+E:\2019\Projects\Freelancing\Clients\Varsity Students\Mooi\African Adventures\African Adventures\obj\Debug\African_Adventures.frmLogin.resources
+E:\2019\Projects\Freelancing\Clients\Varsity Students\Mooi\African Adventures\African Adventures\obj\Debug\African_Adventures.Forms.frmDashboard.resources
+E:\2019\Projects\Freelancing\Clients\Varsity Students\Mooi\African Adventures\African Adventures\obj\Debug\African_Adventures.Properties.Resources.resources
+E:\2019\Projects\Freelancing\Clients\Varsity Students\Mooi\African Adventures\African Adventures\obj\Debug\African Adventures.csproj.GenerateResource.Cache
+E:\2019\Projects\Freelancing\Clients\Varsity Students\Mooi\African Adventures\African Adventures\obj\Debug\African Adventures.exe
+E:\2019\Projects\Freelancing\Clients\Varsity Students\Mooi\African Adventures\African Adventures\obj\Debug\African Adventures.pdb
+E:\2019\Projects\Freelancing\Clients\Varsity Students\Mooi\African Adventures\African Adventures\obj\Debug\African_Adventures.Views.UserControls.UC_Schedule.resources
+F:\2019\Projects\Freelancing\Clients\Varsity Students\Mooi\African Adventures\African Adventures\bin\Debug\African Adventures.exe.config
+F:\2019\Projects\Freelancing\Clients\Varsity Students\Mooi\African Adventures\African Adventures\obj\Debug\African Adventures.exe
+F:\2019\Projects\Freelancing\Clients\Varsity Students\Mooi\African Adventures\African Adventures\obj\Debug\African Adventures.pdb
+F:\2019\Projects\Freelancing\Clients\Varsity Students\Mooi\African Adventures\African Adventures\bin\Debug\African Adventures.exe
+F:\2019\Projects\Freelancing\Clients\Varsity Students\Mooi\African Adventures\African Adventures\bin\Debug\African Adventures.pdb
+F:\2019\Projects\Freelancing\Clients\Varsity Students\Mooi\African Adventures\African Adventures\obj\Debug\African Adventures.csprojResolveAssemblyReference.cache
+F:\2019\Projects\Freelancing\Clients\Varsity Students\Mooi\African Adventures\African Adventures\obj\Debug\African_Adventures.frmLogin.resources
+F:\2019\Projects\Freelancing\Clients\Varsity Students\Mooi\African Adventures\African Adventures\obj\Debug\African_Adventures.Forms.frmDashboard.resources
+F:\2019\Projects\Freelancing\Clients\Varsity Students\Mooi\African Adventures\African Adventures\obj\Debug\African_Adventures.Properties.Resources.resources
+F:\2019\Projects\Freelancing\Clients\Varsity Students\Mooi\African Adventures\African Adventures\obj\Debug\African_Adventures.Views.UserControls.UC_Schedule.resources
+F:\2019\Projects\Freelancing\Clients\Varsity Students\Mooi\African Adventures\African Adventures\obj\Debug\African Adventures.csproj.GenerateResource.Cache
+C:\Users\mankg\Desktop\African Adventures\African Adventures\bin\Debug\African Adventures.exe.config
+C:\Users\mankg\Desktop\African Adventures\African Adventures\bin\Debug\African Adventures.exe
+C:\Users\mankg\Desktop\African Adventures\African Adventures\bin\Debug\African Adventures.pdb
+C:\Users\mankg\Desktop\African Adventures\African Adventures\obj\Debug\African_Adventures.frmLogin.resources
+C:\Users\mankg\Desktop\African Adventures\African Adventures\obj\Debug\African_Adventures.Forms.frmDashboard.resources
+C:\Users\mankg\Desktop\African Adventures\African Adventures\obj\Debug\African_Adventures.Properties.Resources.resources
+C:\Users\mankg\Desktop\African Adventures\African Adventures\obj\Debug\African_Adventures.Views.UserControls.UC_Booking.UCTripDetails.resources
+C:\Users\mankg\Desktop\African Adventures\African Adventures\obj\Debug\African_Adventures.Views.UserControls.UC_OfficeBooking.resources
+C:\Users\mankg\Desktop\African Adventures\African Adventures\obj\Debug\African_Adventures.Views.UserControls.UC_Schedule.resources
+C:\Users\mankg\Desktop\African Adventures\African Adventures\obj\Debug\African Adventures.csproj.GenerateResource.Cache
+C:\Users\mankg\Desktop\African Adventures\African Adventures\obj\Debug\African Adventures.exe
+C:\Users\mankg\Desktop\African Adventures\African Adventures\obj\Debug\African Adventures.pdb
+C:\Users\mankg\Desktop\African Adventures\African Adventures\obj\Debug\African Adventures.csprojResolveAssemblyReference.cache
+C:\Users\mankg\Desktop\African Adventures\African Adventures\obj\Debug\African_Adventures.Views.UserControls.UC_Booking.UC_InOfficeBooking.UCPassengerDetails.resources
+E:\African Adventures\African Adventures\bin\Debug\African Adventures.exe.config
+E:\African Adventures\African Adventures\obj\Debug\African Adventures.exe
+E:\African Adventures\African Adventures\obj\Debug\African Adventures.pdb
+E:\African Adventures\African Adventures\bin\Debug\African Adventures.exe
+E:\African Adventures\African Adventures\bin\Debug\African Adventures.pdb
+E:\African Adventures\African Adventures\obj\Debug\African Adventures.csprojResolveAssemblyReference.cache
+E:\African Adventures\African Adventures\obj\Debug\African_Adventures.frmLogin.resources
+E:\African Adventures\African Adventures\obj\Debug\African_Adventures.Forms.frmDashboard.resources
+E:\African Adventures\African Adventures\obj\Debug\African_Adventures.Properties.Resources.resources
+E:\African Adventures\African Adventures\obj\Debug\African_Adventures.Views.UserControls.UC_Booking.UC_InOfficeBooking.UCPassengerDetails.resources
+E:\African Adventures\African Adventures\obj\Debug\African_Adventures.Views.UserControls.UC_Booking.UC_InOfficeBooking.UCPayment.resources
+E:\African Adventures\African Adventures\obj\Debug\African_Adventures.Views.UserControls.UC_Booking.UCTripDetails.resources
+E:\African Adventures\African Adventures\obj\Debug\African_Adventures.Views.UserControls.UC_OfficeBooking.resources
+E:\African Adventures\African Adventures\obj\Debug\African_Adventures.Views.UserControls.UC_Schedule.resources
+E:\African Adventures\African Adventures\obj\Debug\African Adventures.csproj.GenerateResource.Cache
+E:\African Adventures\African Adventures\obj\Debug\African_Adventures.Views.UserControls.UC_Booking.UC_InOfficeBooking.UCConfirmPayment.resources
+E:\African Adventures\African Adventures\obj\Debug\African_Adventures.Views.UserControls.UC_Trips.UCCheckIn.resources
+E:\African Adventures\African Adventures\obj\Debug\African_Adventures.Views.UserControls.UC_Trips.UCTripManagementPanel.resources
+E:\African Adventures\African Adventures\obj\Debug\African_Adventures.Views.UserControls.UC_Trips.UCCancelTrip.resources
+E:\African Adventures\African Adventures\obj\Debug\African_Adventures.Views.UserControls.UC_Trips.UCPrepareTrips.resources
+C:\Users\mankg\Music\African Adventures\African Adventures\bin\Debug\African Adventures.exe.config
+C:\Users\mankg\Music\African Adventures\African Adventures\obj\Debug\African Adventures.exe
+C:\Users\mankg\Music\African Adventures\African Adventures\obj\Debug\African Adventures.pdb
+C:\Users\mankg\Music\African Adventures\African Adventures\bin\Debug\African Adventures.exe
+C:\Users\mankg\Music\African Adventures\African Adventures\bin\Debug\African Adventures.pdb
+C:\Users\mankg\Music\African Adventures\African Adventures\obj\Debug\African Adventures.csprojResolveAssemblyReference.cache
+C:\Users\mankg\Music\African Adventures\African Adventures\obj\Debug\African_Adventures.frmLogin.resources
+C:\Users\mankg\Music\African Adventures\African Adventures\obj\Debug\African_Adventures.Forms.frmDashboard.resources
+C:\Users\mankg\Music\African Adventures\African Adventures\obj\Debug\African_Adventures.Properties.Resources.resources
+C:\Users\mankg\Music\African Adventures\African Adventures\obj\Debug\African_Adventures.Views.UserControls.UC_Booking.UC_InOfficeBooking.UCConfirmPayment.resources
+C:\Users\mankg\Music\African Adventures\African Adventures\obj\Debug\African_Adventures.Views.UserControls.UC_Booking.UC_InOfficeBooking.UCPassengerDetails.resources
+C:\Users\mankg\Music\African Adventures\African Adventures\obj\Debug\African_Adventures.Views.UserControls.UC_Booking.UC_InOfficeBooking.UCPayment.resources
+C:\Users\mankg\Music\African Adventures\African Adventures\obj\Debug\African_Adventures.Views.UserControls.UC_Booking.UCTripDetails.resources
+C:\Users\mankg\Music\African Adventures\African Adventures\obj\Debug\African_Adventures.Views.UserControls.UC_OfficeBooking.resources
+C:\Users\mankg\Music\African Adventures\African Adventures\obj\Debug\African_Adventures.Views.UserControls.UC_Schedule.resources
+C:\Users\mankg\Music\African Adventures\African Adventures\obj\Debug\African_Adventures.Views.UserControls.UC_Trips.UCCancelTrip.resources
+C:\Users\mankg\Music\African Adventures\African Adventures\obj\Debug\African_Adventures.Views.UserControls.UC_Trips.UCCheckIn.resources
+C:\Users\mankg\Music\African Adventures\African Adventures\obj\Debug\African_Adventures.Views.UserControls.UC_Trips.UCPrepareTrips.resources
+C:\Users\mankg\Music\African Adventures\African Adventures\obj\Debug\African_Adventures.Views.UserControls.UC_Trips.UCTripManagementPanel.resources
+C:\Users\mankg\Music\African Adventures\African Adventures\obj\Debug\African Adventures.csproj.GenerateResource.Cache
+C:\Users\mankg\Music\African Adventures\African Adventures\obj\Debug\African_Adventures.Views.UserControls.UC_Staff.UCStaffPanel.resources
+C:\Users\mankg\Music\African Adventures\African Adventures\obj\Debug\African_Adventures.Views.UserControls.UC_Staff.UCAuthorization.resources
+C:\Users\mankg\Music\African Adventures\African Adventures\obj\Debug\African_Adventures.Views.UserControls.UC_Staff.UCModifyUser.resources
+C:\Users\mankg\Music\African Adventures\African Adventures\obj\Debug\African_Adventures.Views.UserControls.UC_Staff.UCDeleteUser.resources
+C:\Users\mankg\Music\African Adventures\African Adventures\obj\Debug\African_Adventures.Views.UserControls.UC_Staff.UCDiactivateUser.resources
+C:\Users\mankg\Music\African Adventures\African Adventures\obj\Debug\African_Adventures.Views.Forms.frmRegister.resources
+C:\Users\mankg\Music\African Adventures_update\African Adventures\bin\Debug\African Adventures.exe.config
+C:\Users\mankg\Music\African Adventures_update\African Adventures\obj\Debug\African Adventures.exe
+C:\Users\mankg\Music\African Adventures_update\African Adventures\obj\Debug\African Adventures.pdb
+D:\backup\music\African Adventures_update\African Adventures\bin\Debug\African Adventures.exe.config
+D:\backup\music\African Adventures_update\African Adventures\bin\Debug\African Adventures.exe
+D:\backup\music\African Adventures_update\African Adventures\bin\Debug\African Adventures.pdb
+D:\backup\music\African Adventures_update\African Adventures\obj\Debug\African Adventures.csprojAssemblyReference.cache
+D:\backup\music\African Adventures_update\African Adventures\obj\Debug\African_Adventures.frmLogin.resources
+D:\backup\music\African Adventures_update\African Adventures\obj\Debug\African_Adventures.Forms.frmDashboard.resources
+D:\backup\music\African Adventures_update\African Adventures\obj\Debug\African_Adventures.Properties.Resources.resources
+D:\backup\music\African Adventures_update\African Adventures\obj\Debug\African_Adventures.Views.Forms.frmRegister.resources
+D:\backup\music\African Adventures_update\African Adventures\obj\Debug\African_Adventures.Views.UserControls.UC_Booking.UC_InOfficeBooking.UCConfirmPayment.resources
+D:\backup\music\African Adventures_update\African Adventures\obj\Debug\African_Adventures.Views.UserControls.UC_Booking.UC_InOfficeBooking.UCPassengerDetails.resources
+D:\backup\music\African Adventures_update\African Adventures\obj\Debug\African_Adventures.Views.UserControls.UC_Booking.UC_InOfficeBooking.UCPayment.resources
+D:\backup\music\African Adventures_update\African Adventures\obj\Debug\African_Adventures.Views.UserControls.UC_Booking.UCTripDetails.resources
+D:\backup\music\African Adventures_update\African Adventures\obj\Debug\African_Adventures.Views.UserControls.UC_OfficeBooking.resources
+D:\backup\music\African Adventures_update\African Adventures\obj\Debug\African_Adventures.Views.UserControls.UC_Schedule.resources
+D:\backup\music\African Adventures_update\African Adventures\obj\Debug\African_Adventures.Views.UserControls.UC_Staff.UCAuthorization.resources
+D:\backup\music\African Adventures_update\African Adventures\obj\Debug\African_Adventures.Views.UserControls.UC_Staff.UCDeleteUser.resources
+D:\backup\music\African Adventures_update\African Adventures\obj\Debug\African_Adventures.Views.UserControls.UC_Staff.UCDiactivateUser.resources
+D:\backup\music\African Adventures_update\African Adventures\obj\Debug\African_Adventures.Views.UserControls.UC_Staff.UCModifyUser.resources
+D:\backup\music\African Adventures_update\African Adventures\obj\Debug\African_Adventures.Views.UserControls.UC_Staff.UCStaffPanel.resources
+D:\backup\music\African Adventures_update\African Adventures\obj\Debug\African_Adventures.Views.UserControls.UC_Trips.UCCancelTrip.resources
+D:\backup\music\African Adventures_update\African Adventures\obj\Debug\African_Adventures.Views.UserControls.UC_Trips.UCCheckIn.resources
+D:\backup\music\African Adventures_update\African Adventures\obj\Debug\African_Adventures.Views.UserControls.UC_Trips.UCPrepareTrips.resources
+D:\backup\music\African Adventures_update\African Adventures\obj\Debug\African_Adventures.Views.UserControls.UC_Trips.UCTripManagementPanel.resources
+D:\backup\music\African Adventures_update\African Adventures\obj\Debug\African Adventures.csproj.GenerateResource.cache
+D:\backup\music\African Adventures_update\African Adventures\obj\Debug\African Adventures.csproj.CoreCompileInputs.cache
+D:\backup\music\African Adventures_update\African Adventures\obj\Debug\African Adventures.exe
+D:\backup\music\African Adventures_update\African Adventures\obj\Debug\African Adventures.pdb
