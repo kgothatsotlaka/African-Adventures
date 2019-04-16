@@ -118,3 +118,30 @@ D:\backup\music\African Adventures_update\African Adventures\obj\Debug\African A
 D:\backup\music\African Adventures_update\African Adventures\obj\Debug\African Adventures.csproj.CoreCompileInputs.cache
 D:\backup\music\African Adventures_update\African Adventures\obj\Debug\African Adventures.exe
 D:\backup\music\African Adventures_update\African Adventures\obj\Debug\African Adventures.pdb
+D:\Work\External Projects\Non Students\African Adventures\African Adventures\bin\Debug\African Adventures.exe.config
+D:\Work\External Projects\Non Students\African Adventures\African Adventures\bin\Debug\African Adventures.exe
+D:\Work\External Projects\Non Students\African Adventures\African Adventures\bin\Debug\African Adventures.pdb
+D:\Work\External Projects\Non Students\African Adventures\African Adventures\obj\Debug\African Adventures.csprojAssemblyReference.cache
+D:\Work\External Projects\Non Students\African Adventures\African Adventures\obj\Debug\African_Adventures.frmLogin.resources
+D:\Work\External Projects\Non Students\African Adventures\African Adventures\obj\Debug\African_Adventures.Forms.frmDashboard.resources
+D:\Work\External Projects\Non Students\African Adventures\African Adventures\obj\Debug\African_Adventures.Properties.Resources.resources
+D:\Work\External Projects\Non Students\African Adventures\African Adventures\obj\Debug\African_Adventures.Views.Forms.frmRegister.resources
+D:\Work\External Projects\Non Students\African Adventures\African Adventures\obj\Debug\African_Adventures.Views.UserControls.UC_Booking.UC_InOfficeBooking.UCConfirmPayment.resources
+D:\Work\External Projects\Non Students\African Adventures\African Adventures\obj\Debug\African_Adventures.Views.UserControls.UC_Booking.UC_InOfficeBooking.UCPassengerDetails.resources
+D:\Work\External Projects\Non Students\African Adventures\African Adventures\obj\Debug\African_Adventures.Views.UserControls.UC_Booking.UC_InOfficeBooking.UCPayment.resources
+D:\Work\External Projects\Non Students\African Adventures\African Adventures\obj\Debug\African_Adventures.Views.UserControls.UC_Booking.UCTripDetails.resources
+D:\Work\External Projects\Non Students\African Adventures\African Adventures\obj\Debug\African_Adventures.Views.UserControls.UC_OfficeBooking.resources
+D:\Work\External Projects\Non Students\African Adventures\African Adventures\obj\Debug\African_Adventures.Views.UserControls.UC_Schedule.resources
+D:\Work\External Projects\Non Students\African Adventures\African Adventures\obj\Debug\African_Adventures.Views.UserControls.UC_Staff.UCAuthorization.resources
+D:\Work\External Projects\Non Students\African Adventures\African Adventures\obj\Debug\African_Adventures.Views.UserControls.UC_Staff.UCDeleteUser.resources
+D:\Work\External Projects\Non Students\African Adventures\African Adventures\obj\Debug\African_Adventures.Views.UserControls.UC_Staff.UCDiactivateUser.resources
+D:\Work\External Projects\Non Students\African Adventures\African Adventures\obj\Debug\African_Adventures.Views.UserControls.UC_Staff.UCModifyUser.resources
+D:\Work\External Projects\Non Students\African Adventures\African Adventures\obj\Debug\African_Adventures.Views.UserControls.UC_Staff.UCStaffPanel.resources
+D:\Work\External Projects\Non Students\African Adventures\African Adventures\obj\Debug\African_Adventures.Views.UserControls.UC_Trips.UCCancelTrip.resources
+D:\Work\External Projects\Non Students\African Adventures\African Adventures\obj\Debug\African_Adventures.Views.UserControls.UC_Trips.UCCheckIn.resources
+D:\Work\External Projects\Non Students\African Adventures\African Adventures\obj\Debug\African_Adventures.Views.UserControls.UC_Trips.UCPrepareTrips.resources
+D:\Work\External Projects\Non Students\African Adventures\African Adventures\obj\Debug\African_Adventures.Views.UserControls.UC_Trips.UCTripManagementPanel.resources
+D:\Work\External Projects\Non Students\African Adventures\African Adventures\obj\Debug\African Adventures.csproj.GenerateResource.cache
+D:\Work\External Projects\Non Students\African Adventures\African Adventures\obj\Debug\African Adventures.csproj.CoreCompileInputs.cache
+D:\Work\External Projects\Non Students\African Adventures\African Adventures\obj\Debug\African Adventures.exe
+D:\Work\External Projects\Non Students\African Adventures\African Adventures\obj\Debug\African Adventures.pdb

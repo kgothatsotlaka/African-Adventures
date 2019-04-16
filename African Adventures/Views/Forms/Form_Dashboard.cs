@@ -51,7 +51,7 @@ namespace African_Adventures.Forms
         {
             if (isCollapsed)
             {
-                pnlnavigation.Width = pnlnavigation.Width + 10;
+                pnlnavigation.Width += 10;
                 if(pnlnavigation.Width >= panelWidth)
                 {
                     timer1.Stop();
@@ -81,13 +81,13 @@ namespace African_Adventures.Forms
 
         }
 
-        private void movesideHighlight(Control btn)
+        private void MovesideHighlight(Control btn)
         {
             btnHighlight.Top = btn.Top;
             btnHighlight.Height = btn.Height;
         }
 
-        private void addControlsToPanel(Control c)
+        private void AddControlsToPanel(Control c)
         {
             c.Dock = DockStyle.Fill;
             pnlDisplayContent.Controls.Clear();
@@ -98,23 +98,23 @@ namespace African_Adventures.Forms
         private void btnHome_Click(object sender, EventArgs e)
         {
 
-            movesideHighlight(btnHome);
+            MovesideHighlight(btnHome);
             Views.UserControls.UC_Schedule schedule = new Views.UserControls.UC_Schedule();
-            addControlsToPanel(schedule);
+            AddControlsToPanel(schedule);
         }
 
         private void btnBooking_Click(object sender, EventArgs e)
         {
-            movesideHighlight(btnBooking);
+            MovesideHighlight(btnBooking);
             Views.UserControls.UC_OfficeBooking officebookingpanel = new Views.UserControls.UC_OfficeBooking();          
-            addControlsToPanel(officebookingpanel);
+            AddControlsToPanel(officebookingpanel);
         }
 
         private void btnTrips_Click(object sender, EventArgs e)
         {
-            movesideHighlight(btnTrips);
+            MovesideHighlight(btnTrips);
             Views.UserControls.UC_Trips.UCTripManagementPanel manageTrips = new Views.UserControls.UC_Trips.UCTripManagementPanel();
-            addControlsToPanel(manageTrips);
+            AddControlsToPanel(manageTrips);
         }
 
         private void btnPayments_Click(object sender, EventArgs e)
@@ -129,19 +129,19 @@ namespace African_Adventures.Forms
 
         private void btnStaff_Click(object sender, EventArgs e)
         {
-            movesideHighlight(btnStaff);
+            MovesideHighlight(btnStaff);
             Views.UserControls.UC_Staff.UCStaffPanel manageStaff = new Views.UserControls.UC_Staff.UCStaffPanel();
-            addControlsToPanel(manageStaff);
+            AddControlsToPanel(manageStaff);
         }
 
         private void btnAssets_Click(object sender, EventArgs e)
         {
-            movesideHighlight(btnAssets);
+            MovesideHighlight(btnAssets);
         }
 
         private void btnManage_Click(object sender, EventArgs e)
         {
-            movesideHighlight(btnManage);
+            MovesideHighlight(btnManage);
         }
 
         private void pnlDisplay_Paint(object sender, PaintEventArgs e)

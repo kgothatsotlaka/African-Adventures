@@ -271,6 +271,7 @@
             this.pnlWeekDays.Name = "pnlWeekDays";
             this.pnlWeekDays.Size = new System.Drawing.Size(993, 38);
             this.pnlWeekDays.TabIndex = 12;
+            this.pnlWeekDays.Paint += new System.Windows.Forms.PaintEventHandler(this.PnlWeekDays_Paint);
             // 
             // pnlCalenderbody
             // 
